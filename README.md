@@ -67,14 +67,27 @@ Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacra
 
 ### Projects
 
-| Project | What it does | |
-| :-- | :-- | :-- |
-| **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial | |
-| **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a dial | |
-| **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial | `WIP` |
-| **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox | `R&D` |
-| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial — HID, Ulanzi Studio internals, plugin SDK gotchas | `docs` |
-| **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint a YASB bar + taskbar to the active wallpaper | |
+**Stream Deck+ plugins**
+
+| | |
+| :-- | :-- |
+| **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a dial |
+| **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a dial |
+
+**Ulanzi**
+
+| | |
+| :-- | :-- |
+| **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial |
+| **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
+| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
+| **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** | guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware |
+
+**Desktop**
+
+| | |
+| :-- | :-- |
+| **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint a YASB bar + taskbar to the active wallpaper |
 
 ### Gamepad viewer skins
 
@@ -85,62 +98,67 @@ Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacra
 
 ### Sites I've shipped
 
-A few I've vibe-coded and put online:
+| Site | What it is |
+| :-- | :-- |
+| **[caltraffic.com](https://caltraffic.com)** | 3,000+ live Caltrans traffic cameras + route planning across California |
+| **[lightthebe.am](https://lightthebe.am)** | a real-time "did the Sacramento Kings light the beam?" tracker |
+| **[glizzytime.com](https://glizzytime.com)** | every Nathan's Hot Dog Eating Contest champion since 1972, charted, with a live July 4 countdown |
+| **[chumthewaters.com](https://chumthewaters.com)** | shark-themed fun page |
 
-- **[caltraffic.com](https://caltraffic.com)** · 3,000+ live Caltrans traffic cameras + route planning across California
-- **[lightthebe.am](https://lightthebe.am)** · a real-time "did the Sacramento Kings light the beam?" tracker
-- **[glizzytime.com](https://glizzytime.com)** · every Nathan's Hot Dog Eating Contest champion since 1972, charted, with a live July 4 countdown
-- **[chumthewaters.com](https://chumthewaters.com)** · shark-themed fun page
+### Battlestation
 
-### Setup
+It all runs on a UniFi network wired together in a way that probably shouldn't work as well as it does.
 
-- **Gaming PC** · Ryzen 9 + RTX 5080 · Windows 11
-- **MacBook Air** (M1) for the couch, **Mac mini** (M4) that doubles as a webserver
-- **Raspberry Pi 4** running Home Assistant + homelab duty
-- Triple-monitor desk fronted by a **[Gigabyte M28U](https://www.gigabyte.com/Monitor/M28U)** (4K · 144Hz)
+<p align="center">
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation.jpg" width="380" alt="battlestation" /></a>
+</p>
 
-All on a UniFi network. See the [full battlestation evolution, 2006 to today »](https://github.com/brendanwelsh/battlestation-evolution):
-
-[<img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/18-2015.jpg" width="460" alt="Battlestation" />](https://github.com/brendanwelsh/battlestation-evolution)
+<p align="center"><a href="https://github.com/brendanwelsh/battlestation-evolution"><b>Click here to see the evolution of my battlestation »</b></a></p>
 
 ### Fav gear
 
-- **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)**
-- **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)** + **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)**
-- **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)**
-- **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)**
-- **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)** + **[TC001 clock](https://www.ulanzi.com)**
-- **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
-- **Sony a5100** + **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)** + **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)**
-- **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)** + **[Stream Deck XL + Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-xl)**
+| Gear |
+| :-- |
+| **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)** |
+| **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)** + **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)** |
+| **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)** |
+| **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)** |
+| **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)** + **[TC001 clock](https://www.ulanzi.com)** |
+| **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)** |
+| **Sony a5100** + **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)** + **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)** |
+| **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)** + **[Stream Deck XL + Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-xl)** |
 
 ### Favorite open-source software
 
-- **[Home Assistant](https://www.home-assistant.io)**
-- **[OBS Studio](https://obsproject.com)**
-- **[mpv](https://mpv.io)**
-- **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
-- **[Docker](https://www.docker.com)** + **[Saltbox](https://docs.saltbox.dev)**
-- **[Tailscale](https://tailscale.com)**
-- **[PowerToys](https://github.com/microsoft/PowerToys)** + **[VLC](https://www.videolan.org)**
+| Software |
+| :-- |
+| **[Home Assistant](https://www.home-assistant.io)** |
+| **[OBS Studio](https://obsproject.com)** |
+| **[mpv](https://mpv.io)** |
+| **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)** |
+| **[Docker](https://www.docker.com)** + **[Saltbox](https://docs.saltbox.dev)** |
+| **[Tailscale](https://tailscale.com)** |
+| **[PowerToys](https://github.com/microsoft/PowerToys)** + **[VLC](https://www.videolan.org)** |
 
 ### Music
 
-<p align="center">
-  <img width="300" src="assets/shark.png" alt="ascii shark" />
-</p>
-
 Everything from Bach to 2Pac. Here's what's been spinning:
 
-[![Recently played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440)](https://open.spotify.com/user/brendanwelsh)
+<p align="center">
+  <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
+</p>
 
 ### Links
 
-- [LinkedIn](https://linkedin.com/in/brendanwelsh)
-- [X / Twitter](https://x.com/chumthewaters)
-- [Strava](https://www.strava.com/athletes/164089)
-- [brendanw.com](https://brendanw.com)
-- [chumthewaters.com](https://chumthewaters.com)
+| Where | Link |
+| :-- | :-- |
+| **LinkedIn** | [linkedin.com/in/brendanwelsh](https://linkedin.com/in/brendanwelsh) |
+| **X / Twitter** | [x.com/chumthewaters](https://x.com/chumthewaters) |
+| **Strava** | [strava.com/athletes/164089](https://www.strava.com/athletes/164089) |
+| **Personal** | [brendanw.com](https://brendanw.com) |
+| **Shark stuff** | [chumthewaters.com](https://chumthewaters.com) |
 
 ### Stats
 
@@ -194,8 +212,5 @@ Everything from Bach to 2Pac. Here's what's been spinning:
 </div>
 
 <p align="center">
-  <img src="assets/swim-1.gif" width="23%" alt="" />
-  <img src="assets/swim-2.gif" width="23%" alt="" />
-  <img src="assets/swim-3.gif" width="23%" alt="" />
-  <img src="assets/swim-4.gif" width="23%" alt="" />
+  <img src="assets/shark-circle.gif" width="320" alt="blue ascii shark swimming in circles" />
 </p>
