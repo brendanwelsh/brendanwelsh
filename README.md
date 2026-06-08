@@ -73,6 +73,7 @@ Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacra
 | **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a dial | |
 | **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial | `WIP` |
 | **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox | `R&D` |
+| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial — HID, Ulanzi Studio internals, plugin SDK gotchas | `docs` |
 | **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint a YASB bar + taskbar to the active wallpaper | |
 
 ### Gamepad viewer skins
@@ -108,7 +109,7 @@ All on a UniFi network. See the [full battlestation evolution, 2006 to today »]
 - **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)** + **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)**
 - **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)**
 - **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)**
-- **[Ulanzi D200 dial](https://www.ulanzi.com)** + **[TC001 clock](https://www.ulanzi.com)**
+- **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)** + **[TC001 clock](https://www.ulanzi.com)**
 - **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
 - **Sony a5100** + **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)** + **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)**
 - **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)** + **[Stream Deck XL + Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-xl)**
@@ -125,7 +126,9 @@ All on a UniFi network. See the [full battlestation evolution, 2006 to today »]
 
 ### Music
 
-<img align="right" width="300" src="assets/shark.gif" alt="ascii shark" />
+<p align="center">
+  <img width="300" src="assets/shark.png" alt="ascii shark" />
+</p>
 
 Everything from Bach to 2Pac. Here's what's been spinning:
 
@@ -189,3 +192,10 @@ Everything from Bach to 2Pac. Here's what's been spinning:
 <div align="center">
 <em>This was no boat accident.</em>
 </div>
+
+<p align="center">
+  <img src="assets/swim-1.gif" width="23%" alt="" />
+  <img src="assets/swim-2.gif" width="23%" alt="" />
+  <img src="assets/swim-3.gif" width="23%" alt="" />
+  <img src="assets/swim-4.gif" width="23%" alt="" />
+</p>
