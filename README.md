@@ -47,20 +47,19 @@
   <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp;
   <a href="https://www.twitch.tv/chumthewaters">Twitch</a> &nbsp;·&nbsp;
   <a href="https://open.spotify.com/user/brendanwelsh">Spotify</a> &nbsp;·&nbsp;
+  <a href="https://steamcommunity.com/id/chumthewaters">Steam</a> &nbsp;·&nbsp;
   <a href="https://www.strava.com/athletes/164089">Strava</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://brendanw.com">brendanw.com</a> &nbsp;·&nbsp;
-  <a href="https://chumthewaters.com">chumthewaters.com</a>
+  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a>
 </p>
 
 **Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
 
 ### Sacramento grown
 
-Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)** — my dad kept the commands to launch Stunts on a sheet of paper taped next to the kitchen computer. Knee-deep in PCs and desktop customization ever since. Always a gamer: from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to **Masters in TFT**, and these days mostly **Rocket League** — so I built **[ballshark](https://github.com/brendanwelsh/ballshark)**, a self-hosted Rocket League stats tracker (WIP).
+Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)** — my dad kept the commands to launch Stunts on a sheet of paper taped next to the kitchen computer. Knee-deep in PCs and desktop customization ever since. Always a gamer — from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to mostly **Rocket League** these days.
 
 <p align="center">
-  <img src="assets/sacramento.png" width="520" alt="Sacramento Tower Bridge" />
+  <img src="assets/sacramento.png" width="380" alt="Sacramento Tower Bridge" />
 </p>
 
 ### Career
@@ -84,26 +83,22 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 
 ### Projects
 
-**Stream Deck+ plugins**
-
-- **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** — scroll RTSP / UniFi Protect cameras into mpv from a dial
-- **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** — swap the default audio output + master volume from a dial
-
-**Ulanzi**
-
-- **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** — reverse-engineering notes for the Ulanzi D100H dial
-- **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** — the cameradials idea, reborn on an Ulanzi dial
-- **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** — Magic Trackpad + Ulanzi dial as a synth / groovebox
-- **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** — guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware
-
-**Desktop**
-
-- **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** — pull the dominant color from the active Wallpaper Engine wallpaper and tint the YASB bar + Windows taskbar (via TranslucentTB) to match, live; komorebi-friendly
+| Project | What it does |
+| :-- | :-- |
+| **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial |
+| **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a Stream Deck+ dial |
+| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
+| **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial |
+| **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
+| **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** | guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware |
+| **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint the YASB bar + Windows taskbar to the active Wallpaper Engine wallpaper |
 
 ### Gamepad viewer skins
 
-- **[elite-series-2-white](https://github.com/brendanwelsh/elite-series-2-white)** — Xbox Elite Series 2 (white) · [live »](https://brendanwelsh.github.io/elite-series-2-white/)
-- **[playstation-ds5-white](https://github.com/brendanwelsh/playstation-ds5-white)** — DualSense (white) · [live »](https://brendanwelsh.github.io/playstation-ds5-white/)
+| Skin | For gamepadviewer.com | |
+| :-- | :-- | :-- |
+| **[elite-series-2-white](https://github.com/brendanwelsh/elite-series-2-white)** | Xbox Elite Series 2 (white) | [live »](https://brendanwelsh.github.io/elite-series-2-white/) |
+| **[playstation-ds5-white](https://github.com/brendanwelsh/playstation-ds5-white)** | DualSense (white) | [live »](https://brendanwelsh.github.io/playstation-ds5-white/) |
 
 ### Sites I've shipped
 
@@ -113,15 +108,16 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 | **[lightthebe.am](https://lightthebe.am)** | a real-time "did the Sacramento Kings light the beam?" tracker |
 | **[glizzytime.com](https://glizzytime.com)** | every Nathan's Hot Dog Eating Contest champion since 1972, charted, with a live July 4 countdown |
 | **[chumthewaters.com](https://chumthewaters.com)** | shark-themed fun page |
+| **[brendanw.com](https://brendanw.com)** | personal site |
 
 ### Battlestation
 
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/01-2006.jpg" height="220" alt="battlestation, 2006" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2006.jpg" height="300" alt="battlestation, 2006" /></a>
   &nbsp;
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="220" alt="battlestation, 2026" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="300" alt="battlestation, 2026" /></a>
 </p>
 
 <p align="center"><b>The evolution, 2006 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
@@ -174,7 +170,9 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/chumthewaters"><img align="middle" src="https://img.shields.io/badge/Twitch-chumthewaters-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
 
