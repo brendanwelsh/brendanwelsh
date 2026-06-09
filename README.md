@@ -90,18 +90,16 @@ Been gaming online since the proximity-chat chaos of early **H1Z1** back in **20
 
 **Ulanzi**
 
+- **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** — reverse-engineering notes for the Ulanzi D100H dial
 - **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** — the cameradials idea, reborn on an Ulanzi dial
 - **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** — Magic Trackpad + Ulanzi dial as a synth / groovebox
-- **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** — reverse-engineering notes for the Ulanzi D100H dial
 - **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** — guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware
 
 **Desktop**
 
-- **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** — tint a YASB bar + taskbar to the active wallpaper
+- **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** — pull the dominant color from the active Wallpaper Engine wallpaper and tint the YASB bar + Windows taskbar (via TranslucentTB) to match, live; komorebi-friendly
 
 ### Gamepad viewer skins
-
-Skins for [gamepadviewer.com](https://gamepadviewer.com):
 
 - **[elite-series-2-white](https://github.com/brendanwelsh/elite-series-2-white)** — Xbox Elite Series 2 (white) · [live »](https://brendanwelsh.github.io/elite-series-2-white/)
 - **[playstation-ds5-white](https://github.com/brendanwelsh/playstation-ds5-white)** — DualSense (white) · [live »](https://brendanwelsh.github.io/playstation-ds5-white/)
@@ -113,18 +111,21 @@ Skins for [gamepadviewer.com](https://gamepadviewer.com):
 | **[caltraffic.com](https://caltraffic.com)** | 3,000+ live Caltrans traffic cameras + route planning across California |
 | **[lightthebe.am](https://lightthebe.am)** | a real-time "did the Sacramento Kings light the beam?" tracker |
 | **[glizzytime.com](https://glizzytime.com)** | every Nathan's Hot Dog Eating Contest champion since 1972, charted, with a live July 4 countdown |
-| **[916notary.com](https://916notary.com)** | my Sacramento mobile notary service — Notary Public since 2015 |
 | **[chumthewaters.com](https://chumthewaters.com)** | shark-themed fun page |
 
 ### Battlestation
 
-Behind the desk: a **3× NUC Proxmox cluster** humming on a **UniFi** backbone, running **Plex** + the **\*arr** suite, **Nextcloud**, **Home Assistant**, and **Nginx Proxy Manager** / **Homarr** to tie it together. Self-hosted, gloriously over-engineered, and wired up in a way that probably shouldn't run as well as it does.
+My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" width="480" alt="battlestation" style="border: 4px solid #FFB81C; border-radius: 12px;" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/18-2015.jpg" width="380" alt="battlestation" /></a>
 </p>
 
 <p align="center"><a href="https://github.com/brendanwelsh/battlestation-evolution"><b>Click here to see the evolution of my battlestation »</b></a></p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Fav gear
 
@@ -144,18 +145,32 @@ Behind the desk: a **3× NUC Proxmox cluster** humming on a **UniFi** backbone, 
 - **[Ulanzi TC001 clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)**
 - **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
 
+</td>
+<td valign="top" width="50%">
+
 ### Favorite open-source software
 
 - **[Home Assistant](https://www.home-assistant.io)**
-- **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)** + **[Saltbox](https://docs.saltbox.dev)**
-- **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)** + **[Nextcloud](https://nextcloud.com)**
-- **[Nginx Proxy Manager](https://nginxproxymanager.com)** + **[Homarr](https://homarr.dev)**
+- **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)**
+- **[Saltbox](https://docs.saltbox.dev)** + **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)**
+- **[Nextcloud](https://nextcloud.com)**
+- **[Nginx Proxy Manager](https://nginxproxymanager.com)**
+- **[Homarr](https://homarr.dev)**
 - **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
-- **[PowerToys](https://github.com/microsoft/PowerToys)** + **[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)** + **[ShareX](https://getsharex.com)**
-- **[OBS Studio](https://obsproject.com)** + **[mpv](https://mpv.io)**
-- **[7-Zip](https://www.7-zip.org)** + **[Notepad++](https://notepad-plus-plus.org)** + **[VLC](https://www.videolan.org)**
+- **[PowerToys](https://github.com/microsoft/PowerToys)**
+- **[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)**
+- **[ShareX](https://getsharex.com)**
+- **[OBS Studio](https://obsproject.com)**
+- **[7-Zip](https://www.7-zip.org)**
+- **[Notepad++](https://notepad-plus-plus.org)**
+- **[VLC](https://www.videolan.org)**
 - **[Tailscale](https://tailscale.com)**
-- **[QMK](https://qmk.fm)** + **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
+- **[QMK](https://qmk.fm)**
+- **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
+
+</td>
+</tr>
+</table>
 
 ### Music
 
