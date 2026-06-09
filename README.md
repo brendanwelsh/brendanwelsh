@@ -115,12 +115,12 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2006.jpg" height="300" alt="battlestation, 2006" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2007.jpg" height="300" alt="battlestation, 2007" /></a>
   &nbsp;
   <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="300" alt="battlestation, 2026" /></a>
 </p>
 
-<p align="center"><b>The evolution, 2006 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
+<p align="center"><b>The evolution, 2007 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
 
 <table align="center">
 <tr>
@@ -170,24 +170,9 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.twitch.tv/chumthewaters"><img align="middle" src="https://img.shields.io/badge/Twitch-chumthewaters-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
-
-### Stats
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=brendanwelsh&style=for-the-badge&color=FFB81C&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/brendanwelsh?style=for-the-badge&logo=github&logoColor=FFB81C&labelColor=101010&color=FFB81C)](https://github.com/brendanwelsh?tab=followers)
-
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brendanwelsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFB81C&icon_color=9B5DE5&text_color=E6EDF3&hide_title=true)](https://github.com/brendanwelsh)
-
-[![GitHub streak](https://streak-stats.demolab.com/?user=brendanwelsh&hide_border=true&background=0D1117&stroke=FFB81C&ring=FFB81C&fire=9B5DE5&currStreakNum=FFB81C&currStreakLabel=FFB81C&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E)](https://github.com/brendanwelsh)
-
-</div>
 
 <div align="center">
 <pre>
