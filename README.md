@@ -52,7 +52,7 @@
 
 ### Sacramento grown
 
-Folsom-raised, with computers always around. Grew up on MS-DOS — **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)** — with a **SNES** and **GameCube** never far from reach, and I've been knee-deep in PCs and desktop customization ever since. Always a gamer — I [reviewed Ninja Gaiden on GameFAQs back in 2004](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305).
+Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)**, and knee-deep in PCs and desktop customization ever since. Always a gamer: from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to **Masters in TFT**, and these days mostly **Rocket League** — so I built **[ballshark](https://github.com/brendanwelsh/ballshark)**, a self-hosted Rocket League stats tracker (WIP).
 
 <p align="center">
   <img src="assets/sacramento.png" width="520" alt="Sacramento Tower Bridge" />
