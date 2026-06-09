@@ -176,8 +176,8 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="middle" width="302" src="assets/green-shark.gif" alt="ascii shark" />
+  &nbsp;&nbsp;
+  <img align="middle" width="340" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
 
 <div align="center">
