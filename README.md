@@ -1,25 +1,26 @@
 <div align="center">
 <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣧⡀⣠⣤⡄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣼⠗⢶⣾⡿⠷⣶⣶⣶⣶⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠠⠄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠞⠛⠋⠙⠛⠻⠿⣿⠿⠿⠿⠿⠿⠿⠛⠛⠿⠿⠿⣿⠿⠿⠿⢷⣶⣤⣤⣤⡤⠴
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠄⠒⠊⠑⠒⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣧⡀⣠⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣼⠗⢶⣾⡿⠷⣶⣶⣶⣶⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠞⠛⠋⠙⠛⠻⠿⣿⠿⠿⠿⠿⠿⠿⠛⠛⠿⠿⠿⣿⠿⠿⠿⢷⣶⣤⣤⣤⡤⠴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠄⠒⠊⠑⠒⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-⠀⠀⠀⠀⠀⠀⠀ ██████╗██╗  ██╗██╗   ██╗███╗   ███╗
-⠀⠀⠀⠀⠀⠀⠀██╔════╝██║  ██║██║   ██║████╗ ████║
-⠀⠀⠀⠀⠀⠀⠀██║     ███████║██║   ██║██╔████╔██║
-⠀⠀⠀⠀⠀⠀⠀██║     ██╔══██║██║   ██║██║╚██╔╝██║
-⠀⠀⠀⠀⠀⠀⠀╚██████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║
-⠀⠀⠀⠀⠀⠀⠀ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀████████╗██╗  ██╗███████╗
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╚══██╔══╝██║  ██║██╔════╝
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ███████║█████╗⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██╔══██║██╔══╝⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██║  ██║███████╗
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ╚═╝   ╚═╝  ╚═╝╚══════╝
+⠀⠀⠀⠀⠀⠀⠀ ██████╗██╗  ██╗██╗   ██╗███╗   ███╗⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀██╔════╝██║  ██║██║   ██║████╗ ████║⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀██║     ███████║██║   ██║██╔████╔██║⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀██║     ██╔══██║██║   ██║██║╚██╔╝██║⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀╚██████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀████████╗██╗  ██╗███████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╚══██╔══╝██║  ██║██╔════╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ███████║█████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██╔══██║██╔══╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██║  ██║███████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ╚═╝   ╚═╝  ╚═╝╚══════╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ██╗    ██╗ █████╗ ████████╗███████╗██████╗ ███████╗
 ██║    ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██╔════╝
@@ -28,7 +29,7 @@
 ╚███╔███╔╝██║  ██║   ██║   ███████╗██║  ██║███████║
  ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀You're gonna need a bigger boat.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀You're gonna need a bigger boat.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 </div>
 
@@ -68,12 +69,12 @@ Customer-facing, engineering-first. I live on the technical side of the relation
 
 - **[Optimizely](https://www.optimizely.com)** · Experimentation engineering for enterprise customers: web + feature experiments, DOM- and SDK-based implementations, wired into their products.
 - **[BigPanda](https://www.bigpanda.io)** · Value & Adoption Advisor. Drove technical adoption of the AIOps platform: integrations, event correlation, and monitoring pipelines.
-- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Owned enterprise customers' container & Kubernetes security posture: image scanning, runtime protection, and policy.
+- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning with **[Trivy](https://github.com/aquasecurity/trivy)**, runtime protection, and policy.
 - **[NEC Biometrics](https://www.nec.com/en/global/solutions/biometrics/index.html)** · Project Implementation Lead for enterprise biometrics & thermal systems at venues like Madison Square Garden, Radio City Music Hall, and Hard Rock Hollywood. Multi-server, GPU-accelerated, Docker-based deployments, everything from physical install to remote support.
 
 ### Off the clock
 
-Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF SLX 8 Di2](assets/aeroad.png)**, logged on **[Strava](https://www.strava.com/athletes/164089)** with a **Garmin Edge 1050** and **Fenix 8**. Training has me **100+ lbs down**. It's on pause for now while I come back from L5-S1 herniation and spine surgery and rebuild my right side.
+Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF SLX 8 Di2](assets/aeroad.png)**, logged on **[Strava](https://www.strava.com/athletes/164089)** with a **Garmin Edge 1050** and **Fenix 8**. Training has me **100+ lbs down**, and these days I lift on a **[4-day PHUL split](https://www.muscleandstrength.com/workouts/phul-workout)**.
 
 I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)**. I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
 
@@ -118,12 +119,14 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" width="380" alt="battlestation, 2026" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/01-2006.jpg" height="220" alt="battlestation, 2006" /></a>
+  &nbsp;
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="220" alt="battlestation, 2026" /></a>
 </p>
 
 <p align="center"><b>The evolution, 2006 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
@@ -159,6 +162,7 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 - **[Spotify](https://www.spotify.com)**
 - **[Tailscale](https://tailscale.com)**
 - **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
+- **[MacroFactor](https://macrofactorapp.com)**
 
 </td>
 </tr>
