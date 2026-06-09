@@ -44,12 +44,18 @@
 <p align="center"><i>tinkering since 1991 · vibin' since 2025</i></p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp;
-  <a href="https://www.twitch.tv/chumthewaters">Twitch</a> &nbsp;·&nbsp;
+  <a href="https://www.strava.com/athletes/164089">Strava</a> &nbsp;·&nbsp;
   <a href="https://open.spotify.com/user/brendanwelsh">Spotify</a> &nbsp;·&nbsp;
   <a href="https://steamcommunity.com/id/chumthewaters">Steam</a> &nbsp;·&nbsp;
-  <a href="https://www.strava.com/athletes/164089">Strava</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a>
+  <a href="https://www.twitch.tv/chumthewaters">Twitch</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brendanwelsh&style=for-the-badge&color=FFB81C&label=PROFILE+VIEWS" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/brendanwelsh?tab=followers"><img src="https://img.shields.io/github/followers/brendanwelsh?style=for-the-badge&logo=github&logoColor=FFB81C&labelColor=101010&color=FFB81C" alt="Followers" /></a>
 </p>
 
 **Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
