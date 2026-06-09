@@ -55,11 +55,7 @@
 Folsom-raised, with computers always around — my dad was a Quality & Reliability Engineer at **Intel**, so the tech roots run deep. Cut my teeth on MS-DOS launching **STUNTS**, **The Incredible Machine**, and **Lemmings**, a **SNES** and **GameCube** never far from reach. By **2006** I was running **Compiz Fusion** on **Ubuntu**, and I've been knee-deep in Windows and desktop customization ever since.
 
 <p align="center">
-  <img src="assets/sacramento.png" height="130" alt="Sacramento" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/folsom-prison.png" height="130" alt="Folsom Prison" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/folsom-bridge.png" height="130" alt="Folsom" />
+  <img src="assets/sacramento-folsom.svg" width="820" alt="Sacramento & Folsom skyline" />
 </p>
 
 ### Career

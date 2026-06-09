@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Sacramento and Folsom skyline">
+  <defs>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="280" rx="20" ry="20"/></clipPath>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#241046"/>
+      <stop offset="40%" stop-color="#5B2A86"/>
+      <stop offset="68%" stop-color="#9B5DE5"/>
+      <stop offset="86%" stop-color="#E8893B"/>
+      <stop offset="100%" stop-color="#FFB81C"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#FFF3CB"/>
+      <stop offset="55%" stop-color="#FFCB45"/>
+      <stop offset="100%" stop-color="#FFB81C"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- sky + sun -->
+    <rect x="0" y="0" width="1200" height="280" fill="url(#sky)"/>
+    <circle cx="600" cy="160" r="72" fill="url(#sun)"/>
+
+    <!-- birds -->
+    <g fill="none" stroke="#1a0f2e" stroke-width="2.5" stroke-linecap="round" opacity="0.8">
+      <path d="M150,70 q9,-7 18,0 q9,-7 18,0"/>
+      <path d="M196,58 q7,-5 14,0 q7,-5 14,0"/>
+      <path d="M1006,54 q8,-6 16,0 q8,-6 16,0"/>
+    </g>
+
+    <!-- ground + horizon glow -->
+    <rect x="0" y="222" width="1200" height="58" fill="#08070d"/>
+    <rect x="0" y="220" width="1200" height="2.5" fill="#FFB81C" opacity="0.55"/>
+
+    <!-- black silhouettes -->
+    <g fill="#08070d">
+      <!-- Folsom Prison: crenellated wall + guard tower -->
+      <rect x="46" y="172" width="170" height="50"/>
+      <g>
+        <rect x="50" y="164" width="14" height="8"/><rect x="78" y="164" width="14" height="8"/>
+        <rect x="106" y="164" width="14" height="8"/><rect x="134" y="164" width="14" height="8"/>
+        <rect x="162" y="164" width="14" height="8"/><rect x="190" y="164" width="14" height="8"/>
+      </g>
+      <rect x="96" y="126" width="48" height="96"/>
+      <rect x="100" y="118" width="12" height="8"/><rect x="118" y="118" width="12" height="8"/><rect x="128" y="118" width="12" height="8"/>
+
+      <!-- Folsom arch bridge -->
+      <rect x="252" y="158" width="220" height="9"/>
+      <rect x="258" y="167" width="10" height="55"/>
+      <rect x="456" y="167" width="10" height="55"/>
+      <path d="M264,222 Q362,160 460,222" fill="none" stroke="#08070d" stroke-width="7"/>
+      <g stroke="#08070d" stroke-width="4">
+        <line x1="303" y1="167" x2="303" y2="202"/>
+        <line x1="333" y1="167" x2="333" y2="194"/>
+        <line x1="362" y1="167" x2="362" y2="191"/>
+        <line x1="391" y1="167" x2="391" y2="194"/>
+        <line x1="421" y1="167" x2="421" y2="202"/>
+      </g>
+
+      <!-- State Capitol -->
+      <rect x="500" y="190" width="160" height="32"/>
+      <rect x="520" y="200" width="120" height="22"/>
+      <rect x="534" y="150" width="92" height="72"/>
+      <rect x="560" y="122" width="40" height="30"/>
+      <path d="M560,122 C560,98 600,98 600,122 Z"/>
+      <rect x="573" y="96" width="14" height="18"/>
+      <path d="M573,96 C573,88 587,88 587,96 Z"/>
+      <line x1="580" y1="96" x2="580" y2="80" stroke="#08070d" stroke-width="2"/>
+      <circle cx="580" cy="79" r="2.6"/>
+
+      <!-- Downtown skyline -->
+      <rect x="664" y="150" width="34" height="72"/>
+      <rect x="702" y="126" width="30" height="96"/>
+      <rect x="736" y="108" width="40" height="114"/>
+      <rect x="748" y="100" width="16" height="8"/>
+      <line x1="756" y1="100" x2="756" y2="88" stroke="#08070d" stroke-width="2.5"/>
+      <rect x="782" y="140" width="28" height="82"/>
+      <rect x="814" y="122" width="36" height="100"/>
+      <rect x="814" y="116" width="14" height="6"/>
+      <rect x="856" y="152" width="32" height="70"/>
+
+      <!-- Sacramento Tower Bridge -->
+      <rect x="900" y="204" width="300" height="8"/>
+      <rect x="940" y="200" width="38" height="22"/>
+      <rect x="1148" y="200" width="38" height="22"/>
+      <rect x="946" y="66" width="26" height="156"/>
+      <rect x="1150" y="66" width="26" height="156"/>
+      <rect x="946" y="66" width="230" height="16"/>
+      <rect x="952" y="54" width="14" height="12"/>
+      <rect x="1156" y="54" width="14" height="12"/>
+      <rect x="996" y="120" width="130" height="12"/>
+      <g stroke="#08070d" stroke-width="3">
+        <line x1="1010" y1="82" x2="1010" y2="120"/>
+        <line x1="1042" y1="82" x2="1042" y2="120"/>
+        <line x1="1074" y1="82" x2="1074" y2="120"/>
+        <line x1="1106" y1="82" x2="1106" y2="120"/>
+      </g>
+    </g>
+  </g>
+</svg>
