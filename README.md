@@ -123,30 +123,6 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 
 <p align="center"><b>The evolution, 2006 → 2015</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/01-2006.jpg" height="82" alt="2006" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/02-2006.jpg" height="82" alt="2006" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/03-2007.jpg" height="82" alt="2007" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/04-2007.jpg" height="82" alt="2007" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/05-2007.jpg" height="82" alt="2007" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/06-2009.jpg" height="82" alt="2009" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/07-2009.jpg" height="82" alt="2009" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/08-2009.jpg" height="82" alt="2009" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/09-2010.jpg" height="82" alt="2010" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/10-2011.jpg" height="82" alt="2011" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/11-2011.jpg" height="82" alt="2011" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/12-2012.jpg" height="82" alt="2012" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/13-2012.jpg" height="82" alt="2012" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/14-2013.jpg" height="82" alt="2013" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/15-2013.jpg" height="82" alt="2013" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/16-2013.jpg" height="82" alt="2013" />
-  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/17-2014.jpg" height="82" alt="2014" />
-</p>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### Fav gear
 
 - **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)**
@@ -165,22 +141,17 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 - **[Ulanzi TC001 clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)**
 - **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
 
-</td>
-<td valign="top" width="50%">
-
-### Favorite open-source software
+### Favorite software
 
 - **[Home Assistant](https://www.home-assistant.io)**
 - **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)**
 - **[Saltbox](https://docs.saltbox.dev)** + **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)**
 - **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
+- **[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)**
 - **[OBS Studio](https://obsproject.com)**
+- **[Spotify](https://www.spotify.com)**
 - **[Tailscale](https://tailscale.com)**
 - **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
-
-</td>
-</tr>
-</table>
 
 ### Music
 
