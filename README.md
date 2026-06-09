@@ -44,17 +44,15 @@
 
 <p align="center"><i>tinkering since 1991 · vibin' since 2025</i></p>
 
-<p align="center"><b>I bleed black and yellow with a side of purple.</b></p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp; <a href="https://www.strava.com/athletes/164089">Strava</a>
 </p>
 
-**Tech enthusiast and vibe-coder.** I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, gaming, and tech in general.
+**Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, gaming, and tech in general.
 
 ### Sacramento grown
 
-Grew up between Folsom and Sacramento. Cut my teeth on MS-DOS playing **STUNTS**, **The Incredible Machine**, and **Lemmings**, with a **SNES** and a **GameCube** never far from reach.
+Folsom-raised, with computers always around — my dad was a Quality & Reliability Engineer at **Intel**, so the tech roots run deep. Cut my teeth on MS-DOS launching **STUNTS**, **The Incredible Machine**, and **Lemmings**, a **SNES** and **GameCube** never far from reach. By **2006** I was running **Compiz Fusion** on **Ubuntu**, and I've been knee-deep in Windows and desktop customization ever since.
 
 <p align="center">
   <img src="assets/sacramento.png" height="130" alt="Sacramento" />
@@ -77,11 +75,15 @@ Customer-facing, engineering-first. I live on the technical side of the relation
 
 Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF SLX 8 Di2](assets/aeroad.png)**, logged on **[Strava](https://www.strava.com/athletes/164089)** with a **Garmin Edge 1050** and **Fenix 8**. Training has me **100+ lbs down**. It's on pause for now while I come back from L5-S1 herniation and spine surgery and rebuild my right side.
 
-Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)**. I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
+I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)** (somewhere along the way "beam" became a verb for any win — got the mail? beam, baby). I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
 
 ### Gaming
 
 Been gaming online since the proximity-chat chaos of early **H1Z1** back in **2011**. Hit **Master** in League of Legends (June 2020 — top ~0.3% of players), and I run a Discord for the crew.
+
+<p align="center">
+  <img src="assets/shark-circle.gif" width="220" alt="blue ascii shark swimming in circles" />
+</p>
 
 ### Projects
 
@@ -149,16 +151,19 @@ Behind the desk: a **3× NUC Proxmox cluster** humming on a **UniFi** backbone, 
 ### Favorite open-source software
 
 - **[Home Assistant](https://www.home-assistant.io)**
-- **[OBS Studio](https://obsproject.com)**
-- **[mpv](https://mpv.io)**
+- **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)** + **[Saltbox](https://docs.saltbox.dev)**
+- **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)** + **[Nextcloud](https://nextcloud.com)**
+- **[Nginx Proxy Manager](https://nginxproxymanager.com)** + **[Homarr](https://homarr.dev)**
 - **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
-- **[Docker](https://www.docker.com)** + **[Saltbox](https://docs.saltbox.dev)**
+- **[PowerToys](https://github.com/microsoft/PowerToys)** + **[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)** + **[ShareX](https://getsharex.com)**
+- **[OBS Studio](https://obsproject.com)** + **[mpv](https://mpv.io)**
+- **[7-Zip](https://www.7-zip.org)** + **[Notepad++](https://notepad-plus-plus.org)** + **[VLC](https://www.videolan.org)**
 - **[Tailscale](https://tailscale.com)**
-- **[PowerToys](https://github.com/microsoft/PowerToys)** + **[VLC](https://www.videolan.org)**
+- **[QMK](https://qmk.fm)** + **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
 
 ### Music
 
-Live music is the ritual — metalcore and hardcore in the pit, hip-hop, EDM, and whatever the Sacramento scene is throwing. Seen **Atmosphere** more times than I can count, plus **Killswitch Engage** and **Bassnectar**; you'll usually catch me at **[Ace of Spades](https://www.aceofspadessac.com/)** or **[Channel 24](https://channel24sac.com/)**. Everything from Bach to 2Pac, basically. Here's what's been spinning:
+Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
@@ -173,6 +178,7 @@ Live music is the ritual — metalcore and hardcore in the pit, hip-hop, EDM, an
 | **LinkedIn** | [linkedin.com/in/brendanwelsh](https://linkedin.com/in/brendanwelsh) |
 | **X / Twitter** | [x.com/chumthewaters](https://x.com/chumthewaters) |
 | **Strava** | [strava.com/athletes/164089](https://www.strava.com/athletes/164089) |
+| **Spotify** | [open.spotify.com/user/brendanwelsh](https://open.spotify.com/user/brendanwelsh) |
 | **Personal** | [brendanw.com](https://brendanw.com) |
 | **Shark stuff** | [chumthewaters.com](https://chumthewaters.com) |
 
@@ -183,7 +189,11 @@ Live music is the ritual — metalcore and hardcore in the pit, hip-hop, EDM, an
 ![Profile views](https://komarev.com/ghpvc/?username=brendanwelsh&style=for-the-badge&color=FFB81C&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/brendanwelsh?style=for-the-badge&logo=github&logoColor=FFB81C&labelColor=101010&color=FFB81C)](https://github.com/brendanwelsh?tab=followers)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanwelsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFB81C&icon_color=9B5DE5&text_color=E6EDF3&hide_title=true)](https://github.com/brendanwelsh)
+
 [![GitHub streak](https://streak-stats.demolab.com/?user=brendanwelsh&hide_border=true&background=0D1117&stroke=FFB81C&ring=FFB81C&fire=9B5DE5&currStreakNum=FFB81C&currStreakLabel=FFB81C&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E)](https://github.com/brendanwelsh)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=brendanwelsh&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/brendanwelsh)
 
 </div>
 
@@ -220,13 +230,7 @@ Live music is the ritual — metalcore and hardcore in the pit, hip-hop, EDM, an
 ⠀⠀⠀⠘⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠁
 ⠀⠀⠀⠀⠈⠻⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠉⠁⠀⠀⠀⠉⠉⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠃⠀
 ⠀⠀⠀⠀⠀⠀⠈⠻⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀
+
+                This was no boat accident.
 </pre>
 </div>
-
-<div align="center">
-<em>This was no boat accident.</em>
-</div>
-
-<p align="center">
-  <img src="assets/shark-circle.gif" width="320" alt="blue ascii shark swimming in circles" />
-</p>
