@@ -1,27 +1,35 @@
 <div align="center">
 <pre>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣧⡀⣠⣤⡄⠀⠀⠀
-⠀⠀⠀⠀⣠⣼⠗⢶⣾⡿⠷⣶⣶⣶⣶⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀
-⠀⠀⠠⠞⠛⠋⠙⠛⠻⠿⣿⠿⠿⠿⠿⠿⠿⠛⠛⠿⠿⠿⣿⠿⠿⠿⢷⣶⣤⣤⣤
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠄⠒⠊⠑⠒⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                
-      ___ _  _ _   _ __  __ 
-     / __| || | | | |  \/  |
-    | (__| __ | |_| | |\/| |
-     \___|_||_|\___/|_|  |_|
-         _____ _  _ ___ 
-        |_   _| || | __|
-          | | | __ | _| 
-          |_| |_||_|___|
-__      ___ _____ ___ ___  ___ 
-\ \    / /_\_   _| __| _ \/ __|
- \ \/\/ / _ \| | | _||   /\__ \
-  \_/\_/_/ \_\_| |___|_|_\|___/
-                
-You're gonna need a bigger boat.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⢦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣧⡀⣠⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠒⠓⠂⠀⠀⢀⣀⠐⠒⠛⠒⠀⠀⠀⠀⣠⣼⠗⢶⣾⡿⠷⣶⣶⣶⣶⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠠⠄⠒⠤⠤⠄⠀⠀⢀⣀⡤⢄⡀⠀⠀⠀
+⠀⠀⠀⠐⠉⠉⠀⠉⠁⠀⠀⠀⠀⠠⠞⠛⠋⠙⠛⠻⠿⣿⠿⠿⠿⠿⠿⠿⠛⠛⠿⠿⠿⣿⠿⠿⠿⢷⣶⣤⣤⣤⡤⠴⠾⠖⢂⣀⠤⠴⠦⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠄⠒⠊⠑⠒⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ██████╗██╗  ██╗██╗   ██╗███╗   ███╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀██╔════╝██║  ██║██║   ██║████╗ ████║⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀██║     ███████║██║   ██║██╔████╔██║⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀██║     ██╔══██║██║   ██║██║╚██╔╝██║⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╚██████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀████████╗██╗  ██╗███████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╚══██╔══╝██║  ██║██╔════╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ███████║█████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██╔══██║██╔══╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ██║   ██║  ██║███████╗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ╚═╝   ╚═╝  ╚═╝╚══════╝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀██╗    ██╗ █████╗ ████████╗███████╗██████╗ ███████╗⠀⠀⠀⠀
+⠀⠀⠀██║    ██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██╔════╝⠀⠀⠀⠀
+⠀⠀⠀██║ █╗ ██║███████║   ██║   █████╗  ██████╔╝███████╗⠀⠀⠀⠀
+⠀⠀⠀██║███╗██║██╔══██║   ██║   ██╔══╝  ██╔══██╗╚════██║⠀⠀⠀⠀
+⠀⠀⠀╚███╔███╔╝██║  ██║   ██║   ███████╗██║  ██║███████║⠀⠀⠀⠀
+⠀⠀⠀ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀You're gonna need a bigger boat.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 </pre>
 </div>
@@ -37,14 +45,20 @@ You're gonna need a bigger boat.
 <p align="center"><i>tinkering since 1991 · vibin' since 2025</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp; <a href="https://www.strava.com/athletes/164089">Strava</a>
+  <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp;
+  <a href="https://www.twitch.tv/chumthewaters">Twitch</a> &nbsp;·&nbsp;
+  <a href="https://open.spotify.com/user/brendanwelsh">Spotify</a> &nbsp;·&nbsp;
+  <a href="https://www.strava.com/athletes/164089">Strava</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://brendanw.com">brendanw.com</a> &nbsp;·&nbsp;
+  <a href="https://chumthewaters.com">chumthewaters.com</a>
 </p>
 
 **Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
 
 ### Sacramento grown
 
-Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)**, and knee-deep in PCs and desktop customization ever since. Always a gamer: from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to **Masters in TFT**, and these days mostly **Rocket League** — so I built **[ballshark](https://github.com/brendanwelsh/ballshark)**, a self-hosted Rocket League stats tracker (WIP).
+Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[4D Sports Driving](https://github.com/4d-stunts/restunts)** (a.k.a. Stunts), **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)** — my dad kept the commands to launch Stunts on a sheet of paper taped next to the kitchen computer. Knee-deep in PCs and desktop customization ever since. Always a gamer: from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to **Masters in TFT**, and these days mostly **Rocket League** — so I built **[ballshark](https://github.com/brendanwelsh/ballshark)**, a self-hosted Rocket League stats tracker (WIP).
 
 <p align="center">
   <img src="assets/sacramento.png" width="520" alt="Sacramento Tower Bridge" />
@@ -63,7 +77,7 @@ Customer-facing, engineering-first. I live on the technical side of the relation
 
 Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF SLX 8 Di2](assets/aeroad.png)**, logged on **[Strava](https://www.strava.com/athletes/164089)** with a **Garmin Edge 1050** and **Fenix 8**. Training has me **100+ lbs down**. It's on pause for now while I come back from L5-S1 herniation and spine surgery and rebuild my right side.
 
-I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)** (somewhere along the way "beam" became a verb for any win — got the mail? beam, baby). I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
+I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)**. I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
 
 <p align="center">
   <img src="assets/shark-swim.gif" width="100%" alt="a shark gliding across the deep" />
@@ -106,30 +120,35 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/18-2015.jpg" width="380" alt="battlestation, 2015" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" width="380" alt="battlestation, 2026" /></a>
 </p>
 
-<p align="center"><b>The evolution, 2006 → 2015</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
+<p align="center"><b>The evolution, 2006 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
 
-<h3 align="center">Fav gear</h3>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-  <a href="https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard"><b>Keychron Q1 HE</b></a> &nbsp;·&nbsp;
-  <a href="https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse"><b>Logitech G Pro X Superlight</b></a> &nbsp;·&nbsp;
-  <a href="https://www.logitech.com/en-us/products/mice/mx-master-3.html"><b>MX Master 3</b></a> &nbsp;·&nbsp;
-  <a href="https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad"><b>Apple Magic Trackpad</b></a> &nbsp;·&nbsp;
-  <a href="https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/"><b>DualShock 4</b></a> &nbsp;·&nbsp;
-  <a href="https://www.dpreview.com/products/sony/slrs/sony_a5100"><b>Sony a5100</b></a> &nbsp;·&nbsp;
-  <a href="https://www.elgato.com/us/en/p/cam-link-4k"><b>Elgato Cam Link</b></a> &nbsp;·&nbsp;
-  <a href="https://www.shure.com/en-US/products/microphones/mv7"><b>Shure MV7</b></a> &nbsp;·&nbsp;
-  <a href="https://www.elgato.com/us/en/p/key-light-mini"><b>Elgato Key Light Mini</b></a> &nbsp;·&nbsp;
-  <a href="https://www.caldigit.com/thunderbolt-station-4/"><b>CalDigit TS4</b></a> &nbsp;·&nbsp;
-  <a href="https://www.elgato.com/us/en/p/stream-deck-xl"><b>Stream Deck XL</b></a> &nbsp;·&nbsp;
-  <a href="https://www.elgato.com/us/en/p/stream-deck-plus"><b>Stream Deck+</b></a> &nbsp;·&nbsp;
-  <a href="https://www.ulanzi.com/products/d100h-dial-creative-controller-i003"><b>Ulanzi D100H dial</b></a> &nbsp;·&nbsp;
-  <a href="https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882"><b>Ulanzi TC001 clock</b></a> &nbsp;·&nbsp;
-  <a href="https://www.garmin.com/en-US/p/1228429/"><b>Garmin Fenix 8</b></a>
-</p>
+### Fav gear
+
+- **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)**
+- **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)**
+- **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)**
+- **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)**
+- **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)**
+- **[Sony a5100](https://www.dpreview.com/products/sony/slrs/sony_a5100)**
+- **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)**
+- **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)**
+- **[Elgato Key Light Mini](https://www.elgato.com/us/en/p/key-light-mini)**
+- **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)**
+- **[Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl)**
+- **[Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-plus)**
+- **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)**
+- **[Ulanzi TC001 clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)**
+- **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
+
+</td>
+<td valign="top" width="50%">
 
 ### Favorite software
 
@@ -143,24 +162,19 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 - **[Tailscale](https://tailscale.com)**
 - **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
 
+</td>
+</tr>
+</table>
+
 ### Music
 
 Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
-  &emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
-
-### Links
-
-| Where | Link |
-| :-- | :-- |
-| **Spotify** | [open.spotify.com/user/brendanwelsh](https://open.spotify.com/user/brendanwelsh) |
-| **Personal** | [brendanw.com](https://brendanw.com) |
-| **Shark stuff** | [chumthewaters.com](https://chumthewaters.com) |
 
 ### Stats
 
@@ -172,8 +186,6 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brendanwelsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFB81C&icon_color=9B5DE5&text_color=E6EDF3&hide_title=true)](https://github.com/brendanwelsh)
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=brendanwelsh&hide_border=true&background=0D1117&stroke=FFB81C&ring=FFB81C&fire=9B5DE5&currStreakNum=FFB81C&currStreakLabel=FFB81C&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E)](https://github.com/brendanwelsh)
-
-[![Trophies](https://github-profile-trophy-omega.vercel.app/?username=brendanwelsh&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/brendanwelsh)
 
 </div>
 
