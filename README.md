@@ -121,9 +121,9 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2007.jpg" height="300" alt="battlestation, 2007" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2007.jpg" height="440" alt="battlestation, 2007" /></a>
   &nbsp;
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="300" alt="battlestation, 2026" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="440" alt="battlestation, 2026" /></a>
 </p>
 
 <p align="center"><b>The evolution, 2007 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
@@ -177,7 +177,7 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 <p align="left">
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
+  <img align="middle" width="302" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
 
 <div align="center">
