@@ -52,10 +52,10 @@
 
 ### Sacramento grown
 
-Folsom-raised, with computers always around — my dad was a Quality & Reliability Engineer at **Intel**, so the tech roots run deep. Cut my teeth on MS-DOS launching **STUNTS**, **The Incredible Machine**, and **Lemmings**, a **SNES** and **GameCube** never far from reach. By **2006** I was running **Compiz Fusion** on **Ubuntu**, and I've been knee-deep in Windows and desktop customization ever since.
+Folsom-raised, with computers always around. Grew up on MS-DOS — **STUNTS**, **The Incredible Machine**, and **Lemmings** — with a **SNES** and **GameCube** never far from reach, and I've been knee-deep in PCs and desktop customization ever since.
 
 <p align="center">
-  <img src="assets/sacramento-folsom.svg" width="820" alt="Sacramento & Folsom skyline" />
+  <img src="assets/sacramento.png" width="520" alt="Sacramento Tower Bridge" />
 </p>
 
 ### Career
@@ -118,10 +118,30 @@ Been gaming online since the proximity-chat chaos of early **H1Z1** back in **20
 My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
 
 <p align="center">
-  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/18-2015.jpg" width="380" alt="battlestation" /></a>
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/18-2015.jpg" width="380" alt="battlestation, 2015" /></a>
 </p>
 
-<p align="center"><a href="https://github.com/brendanwelsh/battlestation-evolution"><b>Click here to see the evolution of my battlestation »</b></a></p>
+<p align="center"><b>The evolution, 2006 → 2015</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/01-2006.jpg" height="82" alt="2006" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/02-2006.jpg" height="82" alt="2006" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/03-2007.jpg" height="82" alt="2007" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/04-2007.jpg" height="82" alt="2007" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/05-2007.jpg" height="82" alt="2007" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/06-2009.jpg" height="82" alt="2009" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/07-2009.jpg" height="82" alt="2009" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/08-2009.jpg" height="82" alt="2009" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/09-2010.jpg" height="82" alt="2010" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/10-2011.jpg" height="82" alt="2011" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/11-2011.jpg" height="82" alt="2011" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/12-2012.jpg" height="82" alt="2012" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/13-2012.jpg" height="82" alt="2012" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/14-2013.jpg" height="82" alt="2013" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/15-2013.jpg" height="82" alt="2013" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/16-2013.jpg" height="82" alt="2013" />
+  <img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/17-2014.jpg" height="82" alt="2014" />
+</p>
 
 <table>
 <tr>
@@ -153,19 +173,9 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 - **[Home Assistant](https://www.home-assistant.io)**
 - **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)**
 - **[Saltbox](https://docs.saltbox.dev)** + **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)**
-- **[Nextcloud](https://nextcloud.com)**
-- **[Nginx Proxy Manager](https://nginxproxymanager.com)**
-- **[Homarr](https://homarr.dev)**
 - **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
-- **[PowerToys](https://github.com/microsoft/PowerToys)**
-- **[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)**
-- **[ShareX](https://getsharex.com)**
 - **[OBS Studio](https://obsproject.com)**
-- **[7-Zip](https://www.7-zip.org)**
-- **[Notepad++](https://notepad-plus-plus.org)**
-- **[VLC](https://www.videolan.org)**
 - **[Tailscale](https://tailscale.com)**
-- **[QMK](https://qmk.fm)**
 - **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
 
 </td>
@@ -186,9 +196,6 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 | Where | Link |
 | :-- | :-- |
-| **LinkedIn** | [linkedin.com/in/brendanwelsh](https://linkedin.com/in/brendanwelsh) |
-| **X / Twitter** | [x.com/chumthewaters](https://x.com/chumthewaters) |
-| **Strava** | [strava.com/athletes/164089](https://www.strava.com/athletes/164089) |
 | **Spotify** | [open.spotify.com/user/brendanwelsh](https://open.spotify.com/user/brendanwelsh) |
 | **Personal** | [brendanw.com](https://brendanw.com) |
 | **Shark stuff** | [chumthewaters.com](https://chumthewaters.com) |
@@ -208,40 +215,6 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 </div>
 
-<div align="center">
-<pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠛⠉⠀⠀⠉⠻⣿⣿⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⡿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠃⠘⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣛⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣞⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣤⣴⣾⣶⣤⣤⣄⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠙⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⡿⠿⠿⣿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣷⣶⣤⡀⠀⠀⠈⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡿⠀⠀⠀⣠⣾⣿⣿⠿⠿⠛⠉⠉⣩⠀⠀⠀⢠⣇⠀⠀⠀⢸⡄⠀⠀⢙⠉⠙⢻⣿⣿⣦⡀⠀⠀⢹⣇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⠁⠀⠀⣼⣿⡿⢟⠁⠀⢠⡄⠀⠀⣿⣧⠀⢀⣿⣿⡄⠀⢠⣿⣇⠀⢠⣿⠀⠀⢰⠉⠙⣿⣷⡀⠀⠀⢿⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⡇⠀⠀⣸⣿⠏⠀⢸⣄⠀⢸⣿⣦⣸⣿⣿⣧⣸⣿⣿⣇⣠⣿⣿⣿⢠⣿⣿⠀⣠⣿⠀⠀⡼⣿⣇⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠁⠀⠀⣿⢿⡀⠀⢸⣿⣷⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⠀⣴⡇⢸⣿⠀⠀⠀⣿⣿⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠀⠀⢸⡟⠈⣿⣦⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠃⡜⢹⠀⠀⠀⣿⣿⣷⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⡟⠀⠀⢸⡿⣄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣸⠀⠀⠀⣿⣿⣿⣧⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⡇⠀⠀⢸⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⡿⠀⠀⠀⣿⣿⣿⣿⡆⠀⠀⠀
-⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⠀⠀⠀⠀⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⡀⠀⠀
-⠀⠀⠀⠀⠀⣾⣿⣿⣿⡇⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⠋⠸⣿⣿⣿⡟⠈⢻⣿⣿⡟⠻⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⣿⣿⣿⣿⣿⣇⠀⠀
-⠀⠀⠀⠀⢰⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠃⠀⢻⣿⠇⠀⠀⢻⣿⣿⠃⠀⠀⢿⡿⠁⠀⢻⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⡀⠀
-⠀⠀⠀⠀⣾⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⣿⣿⣿⢿⣿⠙⢿⠀⠀⠀⠙⠀⠀⣀⣀⣻⣁⣀⠀⠀⠘⠁⠀⠀⠸⠋⣿⡿⣿⣿⣿⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⡇⠀
-⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠘⣏⠛⠀⠹⢀⣀⣠⣤⣴⠶⠿⠟⠛⠋⠉⠉⠛⠛⠻⠶⠦⣤⣄⣀⣀⣉⣀⣋⣸⠏⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⠀
-⠀⠀⠀⢰⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⡄
-⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⡇
-⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
-⠀⠀⠀⠘⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠁
-⠀⠀⠀⠀⠈⠻⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠉⠁⠀⠀⠀⠉⠉⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠃⠀
-⠀⠀⠀⠀⠀⠀⠈⠻⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀
-
-                This was no boat accident.
-</pre>
-</div>
+<p align="center">
+  <img src="assets/shark-jaws.png" width="420" alt="This was no boat accident." />
+</p>
