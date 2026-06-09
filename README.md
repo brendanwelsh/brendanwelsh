@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp; <a href="https://www.strava.com/athletes/164089">Strava</a>
 </p>
 
-**Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, gaming, and tech in general.
+**Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
 
 ### Sacramento grown
 
@@ -73,12 +73,8 @@ Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF
 
 I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)** (somewhere along the way "beam" became a verb for any win — got the mail? beam, baby). I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
 
-### Gaming
-
-Been gaming online since the proximity-chat chaos of early **H1Z1** back in **2011**. Hit **Master** in League of Legends (June 2020 — top ~0.3% of players), and I run a Discord for the crew.
-
 <p align="center">
-  <img src="assets/shark-circle.gif" width="220" alt="blue ascii shark swimming in circles" />
+  <img src="assets/shark-swim.gif" width="100%" alt="a shark gliding across the deep" />
 </p>
 
 ### Projects
@@ -123,23 +119,25 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 
 <p align="center"><b>The evolution, 2006 → 2015</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
 
-### Fav gear
+<h3 align="center">Fav gear</h3>
 
-- **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)**
-- **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)**
-- **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)**
-- **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)**
-- **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)**
-- **[Sony a5100](https://www.dpreview.com/products/sony/slrs/sony_a5100)**
-- **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)**
-- **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)**
-- **[Elgato Key Light Mini](https://www.elgato.com/us/en/p/key-light-mini)**
-- **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)**
-- **[Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl)**
-- **[Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-plus)**
-- **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)**
-- **[Ulanzi TC001 clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)**
-- **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
+<p align="center">
+  <a href="https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard"><b>Keychron Q1 HE</b></a> &nbsp;·&nbsp;
+  <a href="https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse"><b>Logitech G Pro X Superlight</b></a> &nbsp;·&nbsp;
+  <a href="https://www.logitech.com/en-us/products/mice/mx-master-3.html"><b>MX Master 3</b></a> &nbsp;·&nbsp;
+  <a href="https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad"><b>Apple Magic Trackpad</b></a> &nbsp;·&nbsp;
+  <a href="https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/"><b>DualShock 4</b></a> &nbsp;·&nbsp;
+  <a href="https://www.dpreview.com/products/sony/slrs/sony_a5100"><b>Sony a5100</b></a> &nbsp;·&nbsp;
+  <a href="https://www.elgato.com/us/en/p/cam-link-4k"><b>Elgato Cam Link</b></a> &nbsp;·&nbsp;
+  <a href="https://www.shure.com/en-US/products/microphones/mv7"><b>Shure MV7</b></a> &nbsp;·&nbsp;
+  <a href="https://www.elgato.com/us/en/p/key-light-mini"><b>Elgato Key Light Mini</b></a> &nbsp;·&nbsp;
+  <a href="https://www.caldigit.com/thunderbolt-station-4/"><b>CalDigit TS4</b></a> &nbsp;·&nbsp;
+  <a href="https://www.elgato.com/us/en/p/stream-deck-xl"><b>Stream Deck XL</b></a> &nbsp;·&nbsp;
+  <a href="https://www.elgato.com/us/en/p/stream-deck-plus"><b>Stream Deck+</b></a> &nbsp;·&nbsp;
+  <a href="https://www.ulanzi.com/products/d100h-dial-creative-controller-i003"><b>Ulanzi D100H dial</b></a> &nbsp;·&nbsp;
+  <a href="https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882"><b>Ulanzi TC001 clock</b></a> &nbsp;·&nbsp;
+  <a href="https://www.garmin.com/en-US/p/1228429/"><b>Garmin Fenix 8</b></a>
+</p>
 
 ### Favorite software
 
@@ -158,6 +156,7 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 
 <p align="left">
+  &emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="middle" width="210" src="assets/green-shark.gif" alt="ascii shark" />
@@ -178,14 +177,50 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
 ![Profile views](https://komarev.com/ghpvc/?username=brendanwelsh&style=for-the-badge&color=FFB81C&label=PROFILE+VIEWS)
 [![Followers](https://img.shields.io/github/followers/brendanwelsh?style=for-the-badge&logo=github&logoColor=FFB81C&labelColor=101010&color=FFB81C)](https://github.com/brendanwelsh?tab=followers)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanwelsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFB81C&icon_color=9B5DE5&text_color=E6EDF3&hide_title=true)](https://github.com/brendanwelsh)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brendanwelsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFB81C&icon_color=9B5DE5&text_color=E6EDF3&hide_title=true)](https://github.com/brendanwelsh)
 
 [![GitHub streak](https://streak-stats.demolab.com/?user=brendanwelsh&hide_border=true&background=0D1117&stroke=FFB81C&ring=FFB81C&fire=9B5DE5&currStreakNum=FFB81C&currStreakLabel=FFB81C&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E)](https://github.com/brendanwelsh)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=brendanwelsh&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/brendanwelsh)
+[![Trophies](https://github-profile-trophy-omega.vercel.app/?username=brendanwelsh&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/brendanwelsh)
 
 </div>
 
-<p align="center">
-  <img src="assets/shark-jaws.png" width="420" alt="This was no boat accident." />
-</p>
+<div align="center">
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⡿⠛⠉⠀⠀⠉⠻⣿⣿⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⡿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠃⠘⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⣿⣿⣛⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣞⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣤⣴⣾⣶⣤⣤⣄⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠙⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡿⠁⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣿⣿⡿⠿⠿⣿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣷⣶⣤⡀⠀⠀⠈⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡿⠀⠀⠀⣠⣾⣿⣿⠿⠿⠛⠉⠉⣩⠀⠀⠀⢠⣇⠀⠀⠀⢸⡄⠀⠀⢙⠉⠙⢻⣿⣿⣦⡀⠀⠀⢹⣇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⠁⠀⠀⣼⣿⡿⢟⠁⠀⢠⡄⠀⠀⣿⣧⠀⢀⣿⣿⡄⠀⢠⣿⣇⠀⢠⣿⠀⠀⢰⠉⠙⣿⣷⡀⠀⠀⢿⡆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⡇⠀⠀⣸⣿⠏⠀⢸⣄⠀⢸⣿⣦⣸⣿⣿⣧⣸⣿⣿⣇⣠⣿⣿⣿⢠⣿⣿⠀⣠⣿⠀⠀⡼⣿⣇⠀⠀⠸⣿⡄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠁⠀⠀⣿⢿⡀⠀⢸⣿⣷⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⠀⣴⡇⢸⣿⠀⠀⠀⣿⣿⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⠀⠀⢸⡟⠈⣿⣦⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠃⡜⢹⠀⠀⠀⣿⣿⣷⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⡟⠀⠀⢸⡿⣄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣸⠀⠀⠀⣿⣿⣿⣧⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⡇⠀⠀⢸⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⡿⠀⠀⠀⣿⣿⣿⣿⡆⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⠀⠀⠀⠀⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⣿⣿⡀⠀⠀
+⠀⠀⠀⠀⠀⣾⣿⣿⣿⡇⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣿⠋⠸⣿⣿⣿⡟⠈⢻⣿⣿⡟⠻⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⣿⣿⣿⣿⣿⣇⠀⠀
+⠀⠀⠀⠀⢰⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠃⠀⢻⣿⠇⠀⠀⢻⣿⣿⠃⠀⠀⢿⡿⠁⠀⢻⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⡀⠀
+⠀⠀⠀⠀⣾⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⣿⣿⣿⢿⣿⠙⢿⠀⠀⠀⠙⠀⠀⣀⣀⣻⣁⣀⠀⠀⠘⠁⠀⠀⠸⠋⣿⡿⣿⣿⣿⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⡇⠀
+⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠘⣏⠛⠀⠹⢀⣀⣠⣤⣴⠶⠿⠟⠛⠋⠉⠉⠛⠛⠻⠶⠦⣤⣄⣀⣀⣉⣀⣋⣸⠏⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⠀
+⠀⠀⠀⢰⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⡄
+⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⡇
+⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇
+⠀⠀⠀⠘⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠁
+⠀⠀⠀⠀⠈⠻⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠋⠉⠁⠀⠀⠀⠉⠉⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠃⠀
+⠀⠀⠀⠀⠀⠀⠈⠻⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀
+</pre>
+</div>
+
+<div align="center">
+<em>This was no boat accident.</em>
+</div>
