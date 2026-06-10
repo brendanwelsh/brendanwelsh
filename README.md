@@ -74,7 +74,7 @@ Customer-facing, engineering-first. I live on the technical side of the relation
 
 - **[Optimizely](https://www.optimizely.com)** · Experimentation engineering for enterprise customers: web + feature experiments, DOM- and SDK-based implementations, wired into their products.
 - **[BigPanda](https://www.bigpanda.io)** · Value & Adoption Advisor. Drove technical adoption of the AIOps platform: integrations, event correlation, and monitoring pipelines.
-- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning with **[Trivy](https://github.com/aquasecurity/trivy)**, runtime protection, and policy.
+- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Aqua is essentially the enterprise version of **[Trivy](https://github.com/aquasecurity/trivy)** — I helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning, runtime protection, and policy.
 - **[NEC Biometrics](https://www.nec.com/en/global/solutions/biometrics/index.html)** · Project Implementation Lead for enterprise biometrics & thermal systems at venues like Madison Square Garden, Radio City Music Hall, and Hard Rock Hollywood. Multi-server, GPU-accelerated, Docker-based deployments, everything from physical install to remote support.
 
 ### Off the clock
@@ -89,6 +89,13 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 
 ### Projects
 
+**Rocket League**
+
+| Project | What it does |
+| :-- | :-- |
+| **[ballshark](https://github.com/brendanwelsh/ballshark)** | self-hosted RL stats tracker — local Stats API → SQLite + Discord embeds + dashboard + OBS overlay, no third-party services |
+| **[clocket-league](https://github.com/brendanwelsh/clocket-league)** | live RL scoreboard on an AWTRIX pixel clock (Ulanzi TC001), reading the local Stats API — no cloud |
+
 **Stream Deck+ plugins**
 
 | Project | What it does |
@@ -102,7 +109,7 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 | :-- | :-- |
 | **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
 | **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial |
-| **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
+| **[chumthesizer](https://github.com/brendanwelsh/chumthesizer)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
 | **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** | guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware |
 
 **Desktop**
@@ -110,6 +117,14 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 | Project | What it does |
 | :-- | :-- |
 | **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint the YASB bar + Windows taskbar to the active Wallpaper Engine wallpaper |
+
+**Curated lists**
+
+| List | What it is |
+| :-- | :-- |
+| **[awesome-komorebi](https://github.com/brendanwelsh/awesome-komorebi)** | a curated list of komorebi (Windows tiling WM) resources |
+| **[awesome-stream-deck](https://github.com/brendanwelsh/awesome-stream-deck)** | a curated list of Elgato Stream Deck plugins, tools, and resources |
+| **[awesome-wallpaper-engine](https://github.com/brendanwelsh/awesome-wallpaper-engine)** | a curated list of Wallpaper Engine tools and integrations |
 
 ### Gamepad viewer skins
 
