@@ -74,7 +74,7 @@ Customer-facing, engineering-first. I live on the technical side of the relation
 
 - **[Optimizely](https://www.optimizely.com)** · Experimentation engineering for enterprise customers: web + feature experiments, DOM- and SDK-based implementations, wired into their products.
 - **[BigPanda](https://www.bigpanda.io)** · Value & Adoption Advisor. Drove technical adoption of the AIOps platform: integrations, event correlation, and monitoring pipelines.
-- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Aqua is essentially the enterprise version of **[Trivy](https://github.com/aquasecurity/trivy)** — I helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning, runtime protection, and policy.
+- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Aqua is literally Enterprise **[Trivy](https://github.com/aquasecurity/trivy)** (Trivy is their open-source scanner) — I helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning, runtime protection, and policy.
 - **[NEC Biometrics](https://www.nec.com/en/global/solutions/biometrics/index.html)** · Project Implementation Lead for enterprise biometrics & thermal systems at venues like Madison Square Garden, Radio City Music Hall, and Hard Rock Hollywood. Multi-server, GPU-accelerated, Docker-based deployments, everything from physical install to remote support.
 
 ### Off the clock
