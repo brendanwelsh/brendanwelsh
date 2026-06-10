@@ -58,7 +58,7 @@
   <a href="https://github.com/brendanwelsh?tab=followers"><img src="https://img.shields.io/github/followers/brendanwelsh?style=for-the-badge&logo=github&logoColor=FFB81C&labelColor=101010&color=FFB81C" alt="Followers" /></a>
 </p>
 
-**Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **Claude** and **Codex** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
+**Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **AI agents** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
 
 ### Sacramento grown
 
