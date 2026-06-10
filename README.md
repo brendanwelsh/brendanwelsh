@@ -89,14 +89,26 @@ I bleed black and yellow with a side of purple — Pittsburgh sports to the core
 
 ### Projects
 
+**Stream Deck+ plugins**
+
 | Project | What it does |
 | :-- | :-- |
 | **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial |
 | **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a Stream Deck+ dial |
+
+**Ulanzi**
+
+| Project | What it does |
+| :-- | :-- |
 | **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
 | **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial |
 | **[ulanzi-synth](https://github.com/brendanwelsh/ulanzi-synth)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
 | **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** | guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware |
+
+**Desktop**
+
+| Project | What it does |
+| :-- | :-- |
 | **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint the YASB bar + Windows taskbar to the active Wallpaper Engine wallpaper |
 
 ### Gamepad viewer skins
@@ -179,6 +191,8 @@ Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
   &nbsp;&nbsp;
   <img align="middle" width="340" src="assets/green-shark.gif" alt="ascii shark" />
 </p>
+
+<p align="center"><em>"Don't ever forget that you were once a child full of wonder, before the world taught you how to be afraid."</em><br>—&nbsp;Slug, Atmosphere</p>
 
 <div align="center">
 <pre>
