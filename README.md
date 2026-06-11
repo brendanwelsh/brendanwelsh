@@ -44,7 +44,7 @@
 <p align="center"><i>tinkering since 1991 · vibin' since 2025</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brendanwelsh">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/brendan-welsh">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/chumthewaters">X</a> &nbsp;·&nbsp;
   <a href="https://www.strava.com/athletes/164089">Strava</a> &nbsp;·&nbsp;
   <a href="https://open.spotify.com/user/brendanwelsh">Spotify</a> &nbsp;·&nbsp;
