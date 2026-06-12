@@ -116,6 +116,18 @@
 | **[chumthewaters.com](https://chumthewaters.com)** | shark-themed fun page |
 | **[brendanw.com](https://brendanw.com)** | personal site |
 
+### Battlestation
+
+My happy place — multiple displays, too many dials, and a self-hosted homelab humming away in the background. Over-engineered and wired together in a way that probably shouldn't run as well as it does.
+
+<p align="center">
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="assets/battlestation-2007.jpg" height="440" alt="battlestation, 2007" /></a>
+  &nbsp;
+  <a href="https://github.com/brendanwelsh/battlestation-evolution"><img src="https://raw.githubusercontent.com/brendanwelsh/battlestation-evolution/main/images/25-2026.jpg" height="440" alt="battlestation, 2026" /></a>
+</p>
+
+<p align="center"><b>The evolution, 2007 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
+
 <div align="center">
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
