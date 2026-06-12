@@ -60,33 +60,6 @@
 
 **Based in Sacramento, California.** Tech enthusiast and vibe-coder — I don't write code; I don't know a single programming language. I direct **AI agents** to build the software and make the calls on architecture, taste, and what ships. My strengths are the systems *around* the code: **networking, infrastructure, architecture, and CI/CD**. Deep into smart home, homelab, streaming, audio and video production, and tech in general.
 
-### Sacramento grown
-
-Folsom-raised, with computers always around — a **Nintendo kid** with a **SNES** and **GameCube** never far from reach, weaned on MS-DOS classics like **[Stunts](https://github.com/4d-stunts/restunts)**, **[The Incredible Machine](https://github.com/ebonnal/the-new-incredible-machine)**, and **[Lemmings](https://github.com/tomsoftware/Lemmings.ts)** — my dad kept the commands to launch Stunts on a sheet of paper taped next to the kitchen computer. Knee-deep in PCs and desktop customization ever since. Always a gamer — from a [2004 GameFAQs review of Ninja Gaiden](https://gamefaqs.gamespot.com/nes/587488-ninja-gaiden/reviews/70305) to mostly **Rocket League** these days.
-
-<p align="center">
-  <img src="assets/sacramento.png" width="380" alt="Sacramento Tower Bridge" />
-</p>
-
-### Career
-
-Customer-facing, engineering-first. I live on the technical side of the relationship.
-
-- **[Optimizely](https://www.optimizely.com)** · Experimentation engineering for enterprise customers: web + feature experiments, DOM- and SDK-based implementations, wired into their products.
-- **[BigPanda](https://www.bigpanda.io)** · Value & Adoption Advisor. Drove technical adoption of the AIOps platform: integrations, event correlation, and monitoring pipelines.
-- **[Aqua Security](https://www.aquasec.com)** · Technical Account Manager. Aqua is literally Enterprise **[Trivy](https://github.com/aquasecurity/trivy)** (Trivy is their open-source scanner) — I helped enterprise customers across verticals — Amazon, Tesla, American Airlines, Union Pacific, Philips, Emerson Electric, Las Vegas Metro PD — drive their container & Kubernetes security posture: image scanning, runtime protection, and policy.
-- **[NEC Biometrics](https://www.nec.com/en/global/solutions/biometrics/index.html)** · Project Implementation Lead for enterprise biometrics & thermal systems at venues like Madison Square Garden, Radio City Music Hall, and Hard Rock Hollywood. Multi-server, GPU-accelerated, Docker-based deployments, everything from physical install to remote support.
-
-### Off the clock
-
-Endurance sport is the obsession: triathlon and cycling on a **[Canyon Aeroad CF SLX 8 Di2](assets/aeroad.png)**, logged on **[Strava](https://www.strava.com/athletes/164089)** with a **Garmin Edge 1050** and **Fenix 8**. Training has me **100+ lbs down**, and these days I lift on a **[4-day PHUL split](https://www.muscleandstrength.com/workouts/phul-workout)**.
-
-I bleed black and yellow with a side of purple — Pittsburgh sports to the core (**Steelers, Penguins, Pirates**) plus the **Sacramento Kings** out west, where I built **[Light the Beam](https://lightthebe.am)**. I'm **limited on every major sportsbook** (turns out they don't love a winner), never miss a UFC card, and tinker with home automation, cameras, security, and AI.
-
-<p align="center">
-  <img src="assets/shark-swim.gif" width="100%" alt="a shark gliding across the deep" />
-</p>
-
 ### Projects
 
 **Rocket League**
@@ -154,60 +127,6 @@ My happy place — multiple displays, too many dials, and a self-hosted homelab 
 </p>
 
 <p align="center"><b>The evolution, 2007 → present</b> &nbsp;·&nbsp; <a href="https://github.com/brendanwelsh/battlestation-evolution">full-size gallery »</a></p>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Fav gear
-
-- **[Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard)**
-- **[Logitech G Pro X Superlight](https://www.logitechg.com/en-us/shop/p/pro-x-superlight-wireless-mouse)**
-- **[MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.html)**
-- **[Apple Magic Trackpad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad)**
-- **[DualShock 4](https://www.playstation.com/en-us/accessories/dualshock-4-wireless-controller/)**
-- **[Sony a5100](https://www.dpreview.com/products/sony/slrs/sony_a5100)**
-- **[Elgato Cam Link](https://www.elgato.com/us/en/p/cam-link-4k)**
-- **[Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)**
-- **[Elgato Key Light Mini](https://www.elgato.com/us/en/p/key-light-mini)**
-- **[CalDigit TS4](https://www.caldigit.com/thunderbolt-station-4/)**
-- **[Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl)**
-- **[Stream Deck+](https://www.elgato.com/us/en/p/stream-deck-plus)**
-- **[Ulanzi D100H dial](https://www.ulanzi.com/products/d100h-dial-creative-controller-i003)**
-- **[Ulanzi TC001 clock](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882)**
-- **[Garmin Fenix 8](https://www.garmin.com/en-US/p/1228429/)**
-
-</td>
-<td valign="top" width="50%">
-
-### Favorite software
-
-- **[Home Assistant](https://www.home-assistant.io)**
-- **[Proxmox VE](https://www.proxmox.com)** + **[Docker](https://www.docker.com)**
-- **[Saltbox](https://docs.saltbox.dev)** + **[Sonarr](https://sonarr.tv)** / **[Radarr](https://radarr.video)** / **[Prowlarr](https://prowlarr.com)**
-- **[komorebi](https://github.com/LGUG2Z/komorebi)** + **[whkd](https://github.com/LGUG2Z/whkd)** + **[YASB](https://github.com/amnweb/yasb)**
-- **[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)**
-- **[OBS Studio](https://obsproject.com)**
-- **[Spotify](https://www.spotify.com)**
-- **[Tailscale](https://tailscale.com)**
-- **[AWTRIX](https://github.com/Blueforcer/awtrix3)**
-- **[MacroFactor](https://macrofactorapp.com)**
-
-</td>
-</tr>
-</table>
-
-### Music
-
-Everything from Bach to 2Pac, basically. Here's what's been spinning lately:
-
-<p align="left">
-  <a href="https://open.spotify.com/user/brendanwelsh"><img align="middle" src="https://spotify-recently-played-readme.vercel.app/api?user=brendanwelsh&count=5&unique=1&width=440" alt="Recently played on Spotify" /></a>
-  &nbsp;&nbsp;
-  <img align="middle" width="340" src="assets/green-shark.gif" alt="ascii shark" />
-</p>
-
-<p align="center"><em>"Don't ever forget that you were once a child full of wonder, before the world taught you how to be afraid."</em><br>—&nbsp;Slug, Atmosphere</p>
 
 <div align="center">
 <pre>
