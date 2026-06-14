@@ -99,6 +99,12 @@
 | **[awesome-stream-deck](https://github.com/brendanwelsh/awesome-stream-deck)** | a curated list of Elgato Stream Deck plugins, tools, and resources |
 | **[awesome-wallpaper-engine](https://github.com/brendanwelsh/awesome-wallpaper-engine)** | a curated list of Wallpaper Engine tools and integrations |
 
+**Mascot**
+
+| Project | What it does |
+| :-- | :-- |
+| **[chumthewaters](https://github.com/brendanwelsh/chumthewaters)** | the ASCII shark mascot — swims, steers, and chases your cursor · [live »](https://brendanwelsh.github.io/chumthewaters/) |
+
 ### Gamepad viewer skins
 
 | Skin | For gamepadviewer.com | |
