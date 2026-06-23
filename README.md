@@ -62,56 +62,53 @@
 
 ### Projects
 
-**Rocket League**
+**🎬 Streaming & OBS**
+
+| Project | What it does |
+| :-- | :-- |
+| **[obs-telestrator](https://github.com/brendanwelsh/obs-telestrator)** | Madden-style telestration for OBS Studio — draw arrows, shapes & freehand ink on your live output (native C++/libobs plugin + Stream Deck & Ulanzi dial control) |
+| **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial |
+| **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a Stream Deck+ dial |
+
+**🎮 Music & Games** — playable right in the browser
+
+| Project | What it does |
+| :-- | :-- |
+| **[chumball](https://github.com/brendanwelsh/chumball)** | Rocket-League-style 3D shark soccer in space (Three.js) — fly a shark with a DualSense and rocket-boost a bloody ball into the goal · [play »](https://brendanwelsh.github.io/chumball/) |
+| **[rhythm-eyez](https://github.com/brendanwelsh/rhythm-eyez)** | an optical dual-analog-stick rhythm game — your pupils are the cursors and the eyes look right at the beat · [play »](https://brendanwelsh.github.io/rhythm-eyez/) |
+| **[chumstick-rhythm](https://github.com/brendanwelsh/chumstick-rhythm)** | a dual-analog-stick rhythm game for the DualSense — flick the thumbsticks to the beat (Web Audio + Canvas) · [play »](https://brendanwelsh.github.io/chumstick-rhythm/) |
+| **[chumthesizer](https://github.com/brendanwelsh/chumthesizer)** | an OP-1-inspired groovebox played with a Magic Trackpad, an Ulanzi dial, and a Stream Deck pedal — pure Web Audio · [live »](https://brendanwelsh.github.io/chumthesizer/) |
+| **[chumthewaters](https://github.com/brendanwelsh/chumthewaters)** | the ASCII shark mascot site — swims, steers, and chases your cursor · [live »](https://brendanwelsh.github.io/chumthewaters/) |
+
+**🚀 Rocket League**
 
 | Project | What it does |
 | :-- | :-- |
 | **[ballshark](https://github.com/brendanwelsh/ballshark)** | self-hosted RL stats tracker — local Stats API → SQLite + Discord embeds + dashboard + OBS overlay, no third-party services |
 | **[clocket-league](https://github.com/brendanwelsh/clocket-league)** | live RL scoreboard on an AWTRIX pixel clock (Ulanzi TC001), reading the local Stats API — no cloud |
 
-**Games**
+**🎛️ Ulanzi & dials**
 
 | Project | What it does |
 | :-- | :-- |
-| **[chumball](https://github.com/brendanwelsh/chumball)** | Rocket-League-style 3D shark soccer in space (Three.js) — fly a shark with a DualSense and rocket-boost a bloody ball into the goal · [play »](https://brendanwelsh.github.io/chumball/) |
-| **[chumstick-rhythm](https://github.com/brendanwelsh/chumstick-rhythm)** | a dual-analog-stick rhythm game for the DualSense — flick the thumbsticks to the beat (Web Audio + Canvas) · [play »](https://brendanwelsh.github.io/chumstick-rhythm/) |
-
-**Streaming & OBS**
-
-| Project | What it does |
-| :-- | :-- |
-| **[obs-telestrator](https://github.com/brendanwelsh/obs-telestrator)** | Madden-style telestration for OBS — draw arrows, shapes & freehand ink on your live output (native C++/libobs plugin + Stream Deck & Ulanzi control) |
-| **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial |
-| **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a Stream Deck+ dial |
-
-**Ulanzi**
-
-| Project | What it does |
-| :-- | :-- |
-| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
+| **[ulanzi-window-control](https://github.com/brendanwelsh/ulanzi-window-control)** | drive your windows from an Ulanzi dial — rotate to scroll, press to focus, plus komorebi tiling controls |
 | **[ulanzi-camera-switcher](https://github.com/brendanwelsh/ulanzi-camera-switcher)** | the cameradials idea, reborn on an Ulanzi dial |
-| **[chumthesizer](https://github.com/brendanwelsh/chumthesizer)** | Magic Trackpad + Ulanzi dial as a synth / groovebox |
+| **[ulanzi-d100h-homebrew](https://github.com/brendanwelsh/ulanzi-d100h-homebrew)** | reverse-engineering notes for the Ulanzi D100H dial |
 | **[ulanzi-pixel-clock-awtrix](https://github.com/brendanwelsh/ulanzi-pixel-clock-awtrix)** | guide + resources for the Ulanzi TC001 pixel clock and AWTRIX firmware |
 
-**Desktop**
+**🖥️ Desktop**
 
 | Project | What it does |
 | :-- | :-- |
 | **[yasb-wallpaper-engine-color-sync](https://github.com/brendanwelsh/yasb-wallpaper-engine-color-sync)** | tint the YASB bar + Windows taskbar to the active Wallpaper Engine wallpaper |
 
-**Curated lists**
+**📚 Curated lists**
 
 | List | What it is |
 | :-- | :-- |
-| **[awesome-komorebi](https://github.com/brendanwelsh/awesome-komorebi)** | a curated list of komorebi (Windows tiling WM) resources |
 | **[awesome-stream-deck](https://github.com/brendanwelsh/awesome-stream-deck)** | a curated list of Elgato Stream Deck plugins, tools, and resources |
+| **[awesome-komorebi](https://github.com/brendanwelsh/awesome-komorebi)** | a curated list of komorebi (Windows tiling WM) resources |
 | **[awesome-wallpaper-engine](https://github.com/brendanwelsh/awesome-wallpaper-engine)** | a curated list of Wallpaper Engine tools and integrations |
-
-**Mascot**
-
-| Project | What it does |
-| :-- | :-- |
-| **[chumthewaters](https://github.com/brendanwelsh/chumthewaters)** | the ASCII shark mascot — swims, steers, and chases your cursor · [live »](https://brendanwelsh.github.io/chumthewaters/) |
 
 ### Gamepad viewer skins
 
