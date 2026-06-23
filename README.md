@@ -69,10 +69,18 @@
 | **[ballshark](https://github.com/brendanwelsh/ballshark)** | self-hosted RL stats tracker — local Stats API → SQLite + Discord embeds + dashboard + OBS overlay, no third-party services |
 | **[clocket-league](https://github.com/brendanwelsh/clocket-league)** | live RL scoreboard on an AWTRIX pixel clock (Ulanzi TC001), reading the local Stats API — no cloud |
 
-**Stream Deck+ plugins**
+**Games**
 
 | Project | What it does |
 | :-- | :-- |
+| **[chumball](https://github.com/brendanwelsh/chumball)** | Rocket-League-style 3D shark soccer in space (Three.js) — fly a shark with a DualSense and rocket-boost a bloody ball into the goal · [play »](https://brendanwelsh.github.io/chumball/) |
+| **[chumstick-rhythm](https://github.com/brendanwelsh/chumstick-rhythm)** | a dual-analog-stick rhythm game for the DualSense — flick the thumbsticks to the beat (Web Audio + Canvas) · [play »](https://brendanwelsh.github.io/chumstick-rhythm/) |
+
+**Streaming & OBS**
+
+| Project | What it does |
+| :-- | :-- |
+| **[obs-telestrator](https://github.com/brendanwelsh/obs-telestrator)** | Madden-style telestration for OBS — draw arrows, shapes & freehand ink on your live output (native C++/libobs plugin + Stream Deck & Ulanzi control) |
 | **[streamdeck-cameradials](https://github.com/brendanwelsh/streamdeck-cameradials)** | scroll RTSP / UniFi Protect cameras into mpv from a Stream Deck+ dial |
 | **[streamdeck-audioswap](https://github.com/brendanwelsh/streamdeck-audioswap)** | swap the default audio output + master volume from a Stream Deck+ dial |
 
