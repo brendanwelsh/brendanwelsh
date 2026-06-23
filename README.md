@@ -76,7 +76,6 @@
 | :-- | :-- |
 | **[chumball](https://github.com/brendanwelsh/chumball)** | Rocket-League-style 3D shark soccer in space (Three.js) — fly a shark with a DualSense and rocket-boost a bloody ball into the goal · [play »](https://brendanwelsh.github.io/chumball/) |
 | **[rhythm-eyez](https://github.com/brendanwelsh/rhythm-eyez)** | an optical dual-analog-stick rhythm game — your pupils are the cursors and the eyes look right at the beat · [play »](https://brendanwelsh.github.io/rhythm-eyez/) |
-| **[chumstick-rhythm](https://github.com/brendanwelsh/chumstick-rhythm)** | a dual-analog-stick rhythm game for the DualSense — flick the thumbsticks to the beat (Web Audio + Canvas) · [play »](https://brendanwelsh.github.io/chumstick-rhythm/) |
 | **[chumthesizer](https://github.com/brendanwelsh/chumthesizer)** | an OP-1-inspired groovebox played with a Magic Trackpad, an Ulanzi dial, and a Stream Deck pedal — pure Web Audio · [live »](https://brendanwelsh.github.io/chumthesizer/) |
 | **[chumthewaters](https://github.com/brendanwelsh/chumthewaters)** | the ASCII shark mascot site — swims, steers, and chases your cursor · [live »](https://brendanwelsh.github.io/chumthewaters/) |
 
