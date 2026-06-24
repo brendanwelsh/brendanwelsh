@@ -75,7 +75,7 @@
 | Project | What it does |
 | :-- | :-- |
 | **[chumball](https://github.com/brendanwelsh/chumball)** | Rocket-League-style 3D shark soccer in space (Three.js) — fly a shark with a DualSense and rocket-boost a bloody ball into the goal · [play »](https://brendanwelsh.github.io/chumball/) |
-| **[rhythm-eyez](https://github.com/brendanwelsh/rhythm-eyez)** | an optical dual-analog-stick rhythm game — your pupils are the cursors and the eyes look right at the beat · [play »](https://brendanwelsh.github.io/rhythm-eyez/) |
+| **[rhythmeyez](https://github.com/brendanwelsh/rhythmeyez)** | an optical dual-analog-stick rhythm game — your pupils are the cursors and the eyes look right at the beat · [play »](https://brendanwelsh.github.io/rhythmeyez/) |
 | **[chumthesizer](https://github.com/brendanwelsh/chumthesizer)** | an OP-1-inspired groovebox played with a Magic Trackpad, an Ulanzi dial, and a Stream Deck pedal — pure Web Audio · [live »](https://brendanwelsh.github.io/chumthesizer/) |
 | **[chumthewaters](https://github.com/brendanwelsh/chumthewaters)** | the ASCII shark mascot site — swims, steers, and chases your cursor · [live »](https://brendanwelsh.github.io/chumthewaters/) |
 
@@ -83,7 +83,7 @@
 
 | Project | What it does |
 | :-- | :-- |
-| **[ballshark](https://github.com/brendanwelsh/ballshark)** | self-hosted RL stats tracker — local Stats API → SQLite + Discord embeds + dashboard + OBS overlay, no third-party services |
+| **[chumstats](https://github.com/brendanwelsh/chumstats)** | self-hosted RL stats tracker — local Stats API → SQLite + Discord embeds + dashboard + OBS overlay, no third-party services |
 | **[clocket-league](https://github.com/brendanwelsh/clocket-league)** | live RL scoreboard on an AWTRIX pixel clock (Ulanzi TC001), reading the local Stats API — no cloud |
 
 **🎛️ Ulanzi & dials**
